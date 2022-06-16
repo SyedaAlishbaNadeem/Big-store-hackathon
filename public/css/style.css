@@ -1,0 +1,363 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+
+/* 1st nav bar  */
+
+.big{
+    background-color: #333e48;
+}
+
+
+.tension li a {
+
+text-decoration: none;
+color: white;
+
+}
+
+
+.input-group-btn{
+    background-color:#fed700;
+    padding-left: 3px;
+    height: 40px;
+    overflow-y: hidden;
+    outline: transparent;
+}
+.input-group{
+
+    width: 550px;
+    margin-left: 10px;
+    height: 40px;  
+    
+    
+}
+.form-control{
+
+border: 2px solid #ffffff;
+border-left: 1px solid rgb(54, 53, 53);
+width: 300px;
+height: 40px;
+    
+
+}
+
+.dropdown{
+
+    height: 40px;
+    border: 2px solid  #ffffff;
+    border-radius: 5px;
+    border-right: 1px solid darkgray;
+overflow-y: hidden;
+    
+}
+
+
+/* 2rd nav  */
+
+.all{
+list-style-type: none;
+
+
+}
+
+.all li a{
+
+text-decoration: none;
+color: black;
+font-weight: bold;
+
+}
+
+/* carousal  */
+
+.round{
+
+    background-color: #333e48;
+    border: none;
+    color: white;
+    border: 1px solid white;
+  padding: 10px 30px;
+  border:1px solid #333e48;
+  border-radius: 5px;
+ 
+
+}
+
+.round:hover{
+background-color: yellow;
+color: black;
+font-weight: bold;
+border: none;
+}
+
+/* this is cards */
+
+
+.shop{
+border: none;
+background-color: transparent;
+font-weight: bold;
+color: white;
+}
+
+.shop:hover{
+color: black;
+text-decoration: underline;
+} 
+
+
+/* this is bk cards  */
+
+
+.bk1{
+background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/sub-banner-1.jpg );
+background-repeat: no-repeat;
+background-size: contain;
+height:50vh;
+
+}
+.bk2{
+background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/sub-banner-2.jpg );
+background-repeat: no-repeat;
+background-size: contain;
+height:60vh ;
+}
+.bk3{
+background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/sub-banner-3.jpg );
+background-repeat: no-repeat;
+background-size: contain;
+height:60vh ;
+}
+
+.yel{
+    background-color:rgb(254, 215, 0) ;
+    padding: 2px;
+ 
+}
+.yel:hover{
+    background-color:rgb(254, 215, 0) ;
+    padding: 2px;
+}
+.pink{
+color: black;
+font-weight: bold;
+}
+.pink:hover{
+text-decoration: none;
+color: black;
+font-weight: bold;
+}
+
+
+/* this is the 5 column cards   */
+
+
+/* this is for fashion row  */
+.fashion li a{
+text-decoration: none;
+color: black;
+font-weight: bold;
+}
+.fashion li a:hover{
+text-decoration: underline;
+color: black;
+font-weight: bold;
+
+}
+
+
+/* this si for chair tables  */
+
+.chair1{
+
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/cms-banner-1.jpg );
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:60vh ;
+    color: white;
+}
+
+.chair2{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/cms-banner-2.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+height:60vh ;
+color: black;
+}
+
+.flat{
+    background-color:rgb(254, 215, 0) ;
+    padding: 2px;
+    width: 12vw;
+ 
+}
+.flat:hover{
+    background-color:rgb(254, 215, 0) ;
+    padding: 12px;
+}
+
+.dis{
+    background: transparent;
+    color: white;
+    border: none;
+    text-decoration: underline;
+}
+.dis:hover{
+    text-decoration: none;
+}
+
+/* last blue slider  */
+
+.blue{
+
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/offer-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.fun{
+
+outline: transparent;
+border: none;
+padding:8px ;
+width: 100px;
+background-color: white;
+border-radius: 5px;
+font-weight: bolder;
+}
+
+.fun:hover{
+
+background-color: yellow;
+}
+
+/* uncle aunt div  */
+
+.uncle{
+
+    background-image: url( );
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#buds:hover{
+    transform: scale(0.8);
+}
+
+
+
+
+.brand:hover{
+transform: scale(1.1);
+}
+
+
+#icon:hover{
+ color: #fed700;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer  */
+
+
+
+.fot{
+    font-size: small;
+}
+.i{
+   font-size:45px ;
+}
+.footer{
+    
+    background-color: #333e48;
+}
+
+.collr{
+    color: white;
+    background-color: #333e48;
+}
+
+
+
+
+/* 2nd part  */
+
+
+
+
+footer{
+
+    background-color:rgb(48, 59, 68);
+    color: white;
+    
+    }
+    
+    
+    /* this is input button  */
+      .solid{
+        background: #313D51;
+        border: 1px solid white;
+        color: #fff;
+        width: 10vw;
+        height: 5vh;
+        margin-left:-20px;
+      }
+    
+    /* this is search button  */
+      #heal{
+        background: transparent;
+        border: 1px solid white;
+        color: #fff;
+        width: 10vw;
+        height: 7vh;
+      }
+    
+    .never{
+      color: lightgray;
+    }
+    
+    
+    
+    
+      /* this is ul content */
+      .abuse li{
+    list-style-type: none;
+    
+    }
+    
+    .abuse li a{
+    text-decoration: none;
+    color: white;
+    
+    }
+    
+    .abuse li a:hover{
+    text-decoration:underline;
+    color: white;
+    }
+    
+    
+    
+    #quantity{
+    width: min-content; 
+    }
+    
+    
